@@ -1,0 +1,11 @@
+.venv/
+dist/
+.tox/
+.pytest_cache/
+.dump/
+**/*.pyc
+**/__pycache__
+.mypy_cache
+.poetry/
+.idea
+.coverage
